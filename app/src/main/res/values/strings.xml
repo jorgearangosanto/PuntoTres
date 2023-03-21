@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="altura">Ingresa tu altura (m)</string>
+    <string name="peso">Ingresa tu peso (Kg)</string>
+    <string name="Calcula">Calcular IMC</string>
+    <string name="IMC">Su IMC es de: </string>
+    <string name="emptyField">Existen Campos Vacios</string>
+    <string name="bajopeso">Altualmente se encuentra en un rango de peso no recomendado consulte a su medico</string>
+    <string name="buenpeso">Actualmente se encuentra en un peso ideal, se aconseja seguir una buena dieta y realizar ejercicios</string>
+    <string name="sobrepeso">Actualmente se encuentra en sobre peso, es importante que comience a controlar su dieta y a realizar ejercicios de fomra mucho más frecuente</string>
+    <string name="obeso">Usted esta obeso es prioritario que se comunique con especialistas de la salud</string>
+</resources>
