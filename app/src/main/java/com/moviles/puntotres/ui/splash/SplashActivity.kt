@@ -1,9 +1,10 @@
-package com.moviles.puntotres
+package com.moviles.puntotres.ui.splash
 
 import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.moviles.puntotres.ui.main.MainActivity
 import com.moviles.puntotres.databinding.ActivitySplashBinding
 import java.util.Timer
 import kotlin.concurrent.timerTask

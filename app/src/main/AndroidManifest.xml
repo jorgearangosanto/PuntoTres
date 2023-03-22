@@ -12,7 +12,7 @@
         android:theme="@style/Theme.PuntoTres"
         tools:targetApi="31">
         <activity
-            android:name=".SplashActivity"
+            android:name=".ui.splash.SplashActivity"
             android:theme="@style/Theme.PuntoTresNoBar"
             android:exported="true">
             <intent-filter>
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.main.MainActivity"
             android:exported="false" />
     </application>
 
